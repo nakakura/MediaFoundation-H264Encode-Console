@@ -1,0 +1,5 @@
+C:\Users\nakakura\Desktop\bmp2mp4\bmp2mp4\bin\Debug\bmp2mp4.exe.config
+C:\Users\nakakura\Desktop\bmp2mp4\bmp2mp4\bin\Debug\bmp2mp4.exe
+C:\Users\nakakura\Desktop\bmp2mp4\bmp2mp4\bin\Debug\bmp2mp4.pdb
+C:\Users\nakakura\Desktop\bmp2mp4\bmp2mp4\obj\Debug\bmp2mp4.exe
+C:\Users\nakakura\Desktop\bmp2mp4\bmp2mp4\obj\Debug\bmp2mp4.pdb
